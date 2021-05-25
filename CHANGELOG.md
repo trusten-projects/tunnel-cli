@@ -1,3 +1,6 @@
+# 3.2.5 (2021-05-25)
+- Fusetunnel now handles close properly. 
+
 # 3.2.4 (2021-05-24)
 - Add the clientId to the Tunnel type definition.
 
